@@ -1,0 +1,38 @@
+//	@file Version: 1.0
+//	@file Name: Credits.txt
+//	@file Author: [FF] Redshirt Ensign
+//	@file Site: http://face-first.info
+//	@file Created: 29/06/2013 12:49
+//	@file Description: Credits for code sources in this mission
+
+<== [TAW] - Tonic
+- Orignal version(s) of Wasteland
+
+<== [404] - Pulse, Deadbeat, Costlyy
+- Authors of base mission from which this mission is derived (404 Wasteland v2.9c)
+NOTE: Mission does contain code from various 3rd party sources such as R3F, see 404 site for details
+
+<== [DI] - Dammit
+- Source of Regional (NW/NE/SW/SE Quadrants) Spawning system
+- Originally used (briefly) on Clan Valhalla (aka Valhalla Gamer) Wasteland Australia mission
+and obtained with full permission of both [DI] Dammit and [CV] TRIGGA
+NOTE: Code has since been upgraded by [FF] Redshirt Ensign to include enemy town blocking
+
+<==  Arigato Software
+- Source of Arigato jumper script
+NOTE: Code since modified by [BMRF] MadHatter
+
+<== Demonized
+- Source of DMZ_Delete cleanup script
+NOTE: Currently only used to clean up dead bodies
+
+<== worldtrade1101
+- Source of Allied Name Tags modification to existing newPlayerIcons.sqf script
+NOTE: Original concept is aparently by Sa-Mantra
+
+<== [FF] - Bench, Fully, Veilo, Redshirt Ensign
+- (Bench) Author of Object Health system for R3F (i.e. destructable/repairable base materials). WIP
+- (Fully) Creator of Skalisty Island Bridge and the various buildings that go with it. WIP
+- (Veilo) Creator of CQC (Close Quarters Combat) missions and all of the markers for that mission rotation.
+- (Redshirt Ensign) Anything else you find in this mission file :P
+
