@@ -1,3 +1,6 @@
+# Excluded sqf files
+client/functions/initSurvival.sqf
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
